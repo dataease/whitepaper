@@ -1,2 +1,2 @@
 # whitepaper
-DataEase 白皮书
+DataEase 技术白皮书
