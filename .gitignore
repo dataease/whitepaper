@@ -1,0 +1,7 @@
+node_modules
+docs/node_modules
+docs/.next
+docs/package-lock.json
+docs/out
+
+/.idea/
